@@ -1,4 +1,4 @@
-import { User } from '@/modals/user.model';
+import { User } from '@/models/user.model';
 import { create } from 'zustand';
 import { UserService } from '@/services/user.service';
 
